@@ -1,2 +1,2 @@
-# artificialmc
-ArtificialMC Website :)
+# ArtificialMC Website
+- This is the webiste, Yes
